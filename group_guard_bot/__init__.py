@@ -1,1 +1,1 @@
-group_guard_bot/__init__.py
+"""Group Guard Telegram bot package."""
