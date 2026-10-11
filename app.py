@@ -5,7 +5,7 @@ import yt_dlp
 import os
 
 # التوكن والأيدي مباشرة داخل الكود
-TOKEN_BOT = "8747969341:AAEe3VatCnIbcVFYWhlFLkkLUoLrlmtRD3o"
+TOKEN_BOT = "8747969341:AAGQEOkjmxQzXaBaUMuvvjf_ZYoBSuPdnKU"
 ADMIN_ID = 8808657227
 
 CHANNEL_USERNAME = "@loadvidtik"
